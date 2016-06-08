@@ -23,7 +23,7 @@ By the time that the workshop is over, all of your tests will be running and pas
 You will need to start by cloning this repo. From your terminal, type:
 
 ```
-git clone https://github.com/kentcdodds/es6-workshop.git && cd es6-workshop
+git clone https://github.com/aharris/es6-workshop.git && cd es6-workshop
 ```
 
 ### Install Dependencies
